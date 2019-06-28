@@ -5,7 +5,7 @@
 #### 2、配置
 - .babelrc
 
-```
+```js 
 命令:
     babel ./index.js -o ./_index.js
 下包：
